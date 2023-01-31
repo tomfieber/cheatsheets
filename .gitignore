@@ -16,4 +16,4 @@ _book
 *.pdf
 
 # Obsidian
-.gitignore
+.obsidian/*
