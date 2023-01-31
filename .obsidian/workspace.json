@@ -147,5 +147,8 @@
     }
   },
   "active": "31d22b245eeeefb0",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "test-directory/test-file.md",
+    "SUMMARY.md"
+  ]
 }
