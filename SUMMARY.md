@@ -3,4 +3,4 @@
 
 ## Test Directory
 
-[Test File](test-directory/test-file.md)
+- [Test File](test-directory/test-file.md)
