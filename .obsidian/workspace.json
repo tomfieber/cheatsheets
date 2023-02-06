@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f7bc2b18e9c97ce2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SUMMARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3088ce87e232f4cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test-directory/test-sub-directory/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93b110aecec72484",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test-directory/linux-cheatsheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7bc2b18e9c97ce2",
+  "active": "31d22b245eeeefb0",
   "lastOpenFiles": [
     "test-directory/test-sub-directory/README.md",
+    "test-directory/linux-cheatsheet.md",
     "SUMMARY.md",
     "test-directory/test-sub-directory/test-sub-note.md",
-    "test-directory/linux-cheatsheet.md",
     "README.md",
     "test-directory/test-file.md"
   ]
