@@ -1,8 +1,12 @@
 # Table of contents
 
+## Main
+
+* [Main](README.md)
+
 ## Command and Control
 
-* [Command and Control](README.md)
+* [Command and Control](<Command and Control/README.md>)
 
 ## External Reconnaissance
 
