@@ -1,113 +1,111 @@
+# Table of contents
+
 ## Command and Control
 
-* [Command and Control](Command%20and%20Control/README.md)
+* [Command and Control](README.md)
 
 ## External Reconnaissance
 
-- something
+* [something](external-reconnaissance/something.md)
 
 ## Initial Compromise
 
-- [Initial Compromise](Initial%20Compromise/README.md)
-	- [Password Spraying](Initial%20Compromise/Password%20Spraying.md)
-	- [Internal Phishing](Initial%20Compromise/Internal%20Phishing.md)
-	- [Initial Access Payloads](Initial%20Compromise/Initial%20Access%20Payloads.md)
-	- [Visual Basic for Application Macros](Initial%20Compromise/Visual%20Basic%20for%20Application%20Macros.md)
-	- [Remote Template Injection](Initial%20Compromise/Remote%20Template%20Injection.md)
-	- [HTML Smuggling](Initial%20Compromise/HTML%20Smuggling.md)
+* [Initial Compromise](<Initial Compromise/README.md>)
+  * [Password Spraying](<Initial Compromise/Password Spraying.md>)
+  * [Internal Phishing](<Initial Compromise/Internal Phishing.md>)
+  * [Initial Access Payloads](<Initial Compromise/Initial Access Payloads.md>)
+  * [Visual Basic for Application Macros](<Initial Compromise/Visual Basic for Application Macros.md>)
+  * [Remote Template Injection](<Initial Compromise/Remote Template Injection.md>)
+  * [HTML Smuggling](<Initial Compromise/HTML Smuggling.md>)
 
 ## Host Reconnaissance
 
-- [Host Reconnaissance](Host%20Reconnaissance/README.md)
-	- [Processes](Host%20Reconnaissance/Processes.md)
-	- [Seatbelt](Host%20Reconnaissance/Seatbelt.md)
-	- [Screenshots](Host%20Reconnaissance/Screenshots.md)
-	- [Keylogger](Host%20Reconnaissance/Keylogger.md)
-	- [Clipboard](Host%20Reconnaissance/Clipboard.md)
-	- [User Sessions](Host%20Reconnaissance/User%20Sessions.md)
+* [Host Reconnaissance](<Host Reconnaissance/README.md>)
+  * [Processes](<Host Reconnaissance/Processes.md>)
+  * [Seatbelt](<Host Reconnaissance/Seatbelt.md>)
+  * [Screenshots](<Host Reconnaissance/Screenshots.md>)
+  * [Keylogger](<Host Reconnaissance/Keylogger.md>)
+  * [Clipboard](<Host Reconnaissance/Clipboard.md>)
+  * [User Sessions](<Host Reconnaissance/User Sessions.md>)
 
 ## Host Persistence
 
-- something
+* [something](host-persistence/something.md)
 
 ## Host Privilege Escalation
 
-- something
+* [something](host-privilege-escalation/something.md)
 
 ## Credential Theft
 
-- something
+* [something](credential-theft/something.md)
 
 ## Password Cracking Tips and Tricks
 
-- something
+* [something](password-cracking-tips-and-tricks/something.md)
 
 ## Domain Reconnaissance
 
-- something
+* [something](domain-reconnaissance/something.md)
 
 ## User Impersonation
 
-- something
+* [something](user-impersonation/something.md)
 
 ## Lateral Movement
 
-- something
+* [something](lateral-movement/something.md)
 
 ## Session Passing
 
-- something
+* [something](session-passing/something.md)
 
 ## Pivoting
 
-- something
+* [something](pivoting/something.md)
 
 ## Data Protection API
 
-- something
+* [something](data-protection-api/something.md)
 
 ## Kerberos
 
-- something
+* [something](kerberos/something.md)
 
 ## Active Directory Certificate Services
 
-- something
+* [something](active-directory-certificate-services/something.md)
 
 ## Group Policy
 
-- something
+* [something](group-policy/something.md)
 
 ## MS SQL Servers
 
-- something
+* [something](ms-sql-servers/something.md)
 
 ## Domain Dominance
 
-- something
+* [something](domain-dominance/something.md)
 
 ## Forest and Domain Trusts
 
-- something
+* [something](forest-and-domain-trusts/something.md)
 
 ## Local Administrator Password Solution
 
-- something
+* [something](local-administrator-password-solution/something.md)
 
 ## Microsoft Defender Antivirus
 
-- something
+* [something](microsoft-defender-antivirus/something.md)
 
 ## Application Whitelisting
 
-- something
+* [something](application-whitelisting/something.md)
 
 ## Data Hunting and Exfiltration
 
-- something
+* [something](data-hunting-and-exfiltration/something.md)
 
 ## Extending Cobalt Strike
-
-
-
-
