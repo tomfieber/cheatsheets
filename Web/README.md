@@ -2,4 +2,5 @@
 
 ## 1. Information Gathering
 
-- [ ] [GitHub Searching](Web/information-gathering/github-searching.md)
+- [ ] [GitHub Searching](information-gathering/github-searching.md)
+- [ ] 
