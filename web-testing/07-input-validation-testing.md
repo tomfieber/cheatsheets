@@ -21,3 +21,5 @@
 - [ ] Testing for Server-side Template Injection [WSTG-INPV-18](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/18-Testing_for_Server-side_Template_Injection)
 - [ ] Testing for Server-Side Request Forgery [WSTG-INPV-19](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/19-Testing_for_Server-Side_Request_Forgery)
 - [ ] Testing for Mass Assignment [WSTG-INPV-20](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/20-Testing_for_Mass_Assignment)
+- [ ] [Test](../notes/test.md)
+- [ ] 
